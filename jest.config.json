@@ -14,3 +14,5 @@
   },
   "moduleDirectories": ["node_modules", "src"]
 }
+
+// npm run test --coverage --watchAll=false
